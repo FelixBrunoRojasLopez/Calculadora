@@ -26,11 +26,12 @@ class Program
             simbolo = Console.ReadLine();
             if(simbolo == "=")
             {
+                
                 o1.Sumar(out res);
                 o1.Estado = false;
             }
         }
         while (o1.Estado);
-        Console.WriteLine($"La suma es {res}");
+        Console.WriteLine($"el resultado de la operacion es {res}");
     }
 }

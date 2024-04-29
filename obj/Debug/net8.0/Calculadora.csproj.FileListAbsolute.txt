@@ -12,3 +12,4 @@ c:\Users\felix\Documents\Cursos\csharp\Semanas\Calculadora\obj\Debug\net8.0\refi
 c:\Users\felix\Documents\Cursos\csharp\Semanas\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 c:\Users\felix\Documents\Cursos\csharp\Semanas\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
 c:\Users\felix\Documents\Cursos\csharp\Semanas\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+c:\Users\felix\Documents\Cursos\csharp\Semanas\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
